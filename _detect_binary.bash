@@ -10,7 +10,7 @@
 # -u aborts on using unset variable.
 # -x prints all executed commands.
 # -o pipefail aborts if on any failed pipe operation.
-set -euox pipefail
+set -euo pipefail
 
 ME=`basename "$0"`
 SCRIPT_DIR=`dirname $BASH_SOURCE`
