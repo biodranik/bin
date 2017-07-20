@@ -3,7 +3,7 @@
 # Automatically detects if binary with the same name is installed in the system
 # or can be found in the same directory.
 #
-# by Alexander Zolotarev <me@alex.bio> from Minsk, Belarus.
+# by Alexander Borsuk <me@alex.bio> from Minsk, Belarus.
 #
 # Useful debug options:
 # -e aborts if any command has failed.
